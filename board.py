@@ -1,3 +1,5 @@
+# Board class implements some of the basic functionalities of a connect four board.
+
 import numpy as np
 
 
